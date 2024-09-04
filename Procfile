@@ -1,0 +1,1 @@
+web: npm install -g npm@10.8.2 && npx playwright install && node xbot.js
